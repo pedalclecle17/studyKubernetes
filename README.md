@@ -1,1 +1,1 @@
-# stucyKubernetes
+# studyKubernetes
